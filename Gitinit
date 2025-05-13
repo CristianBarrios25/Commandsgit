@@ -9,7 +9,6 @@
 - mkdir: crear carpeta
 - git init: iniciar repositorio
 - ls -a: muestra archivos oscultos
-- rm -r [Nombre de la carpeta]: Eliminar base de datos
 - touch: crear archivo dentro del repositorio
 - git config list --global: configuracion de git
 - git -v: version de git
@@ -18,3 +17,4 @@
 - git config --global user.email "tuemail@example.com"
 ## Linux 
 -Mv [Nombre del archivo]: cambiar nombre de un archivo 
+- rm -r [Nombre de la carpeta]: Eliminar base de datos
